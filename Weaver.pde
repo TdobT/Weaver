@@ -24,10 +24,10 @@ void setup() {
     // example = example01();
 
     // if you want colored output, but have colors separated out yourself
-    // example = example02();
+     example = example04();
 
     // if you want colored output, and rely on Weaver's algorithm to separate out colors for you
-    example = example03();
+    //example = example0();
 
     frame = example.frame;
     layer = example.layer;
